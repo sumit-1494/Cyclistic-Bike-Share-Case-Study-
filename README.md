@@ -266,9 +266,9 @@ sep-jan - decreasing rain
 
 ### Ride Length
 <a href="url"><img src="https://github.com/sumit-1494/Cyclistic-Bike-Share-Case-Study-/blob/main/Graphs/Total%20Ride%20Length.png" align="center" height="480" width="480" ></a>
-
+Casual Riders are hiring bikes for the longer time than the membership Riders
 <a href="url"><img src="https://github.com/sumit-1494/Cyclistic-Bike-Share-Case-Study-/blob/main/Graphs/Avg.%20Ride%20Length.png" align="center" height="640" width="896" ></a>
-1) Average Ride length for casual riders is always greater than member riders.
+1) 
 2) Average Ride length for casual members is almost similar from February to May and then decreases from month June to January.
 
 ### Ride Count
