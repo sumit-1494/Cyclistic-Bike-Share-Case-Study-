@@ -240,7 +240,7 @@ casual ride count exceeded on sat & sun
                        Casual: classic,electric friday and docked saturday
 
 
-April - Oct Ride count exceeded june-aug on fridays,sat and sunday & sat , sunday in apr, may ,sep ,oct
+April - Oct Ride count exceeded june-aug on fridays,sat and sunday &  sat , sunday in apr, may ,sep ,oct
 march-dec Avg ride length max on sundays
  Ride Preferred   
  (oct-dec) electric max preferred, exceeded claasic by casual & (nov-dec) by member , exceeded casual
@@ -264,19 +264,27 @@ sep-jan - decreasing rain
 7) In January both Electric and Classical bike is Equally Prefeered in weekdays by Casual Riders.
 8) Docked bikes are very less preferred by Casual Riders & No usage of docked bikes by members.
 
-### Ride Length
-<a href="url"><img src="https://github.com/sumit-1494/Cyclistic-Bike-Share-Case-Study-/blob/main/Graphs/Total%20Ride%20Length.png" align="center" height="480" width="480" ></a>
-Casual Riders are hiring bikes for the longer time than the membership Riders
-<a href="url"><img src="https://github.com/sumit-1494/Cyclistic-Bike-Share-Case-Study-/blob/main/Graphs/Avg.%20Ride%20Length.png" align="center" height="640" width="896" ></a>
-1) 
-2) Average Ride length for casual members is almost similar from February to May and then decreases from month June to January.
-
 ### Ride Count
 <a href="url"><img src="https://github.com/sumit-1494/Cyclistic-Bike-Share-Case-Study-/blob/main/Graphs/Total%20Ride%20Count.png" align="center" height="480" width="480" ></a>
 
+Ride Count for the year 2021 is 5.59M out of which 2.52M hiring of bikes is by casual riders and 3.06M member riders. This indicates 45% hiring is by casual riders and 55% by member riders which shows number of casual riders are abundant and supports business strategy of converting casual riders into member riders instead of adding new membership riders. 
+
 <a href="url"><img src="https://github.com/sumit-1494/Cyclistic-Bike-Share-Case-Study-/blob/main/Graphs/Ride%20Count.png" align="center" height="640" width="896" ></a>
-1) Ride Count for Casual Riders Start increasing from March till July and then Starts decreasing from September to February.
-2) Casual Riders has excceded Member Rider Counts from June-August in which tourism is also maximum.
+
+1) Number of bikes hired by casual riders Start increasing from March till July and then Starts decreasing from August to February. July is the peak point of hiring bikes by casual riders and lowest is in the month of February which has a coldest weather. Number of bikes leased by casual riders has excceded member rider count from June-August in which tourism is also maximum.
+2) For member riders bike leasing starts increasing from March till October and then starts decrasing  
+3) Overall on weekends of each month bike hiring by casual riders is more than member riders.
+
+### Ride Length
+
+<a href="url"><img src="https://github.com/sumit-1494/Cyclistic-Bike-Share-Case-Study-/blob/main/Graphs/Total%20Ride%20Length.png" align="center" height="480" width="480" ></a>
+
+Casual Riders are hiring bikes for the longer time than the membership Riders
+
+<a href="url"><img src="https://github.com/sumit-1494/Cyclistic-Bike-Share-Case-Study-/blob/main/Graphs/Avg.%20Ride%20Length.png" align="center" height="640" width="896" ></a>
+ 
+ Average Ride length for casual members is almost similar from February to May and then decreases from month June to January.
+
 
 ### Ride Preference
 <a href="url"><img src="https://github.com/sumit-1494/Cyclistic-Bike-Share-Case-Study-/blob/main/Graphs/Overall%20Ride%20Preference.png" align="center" height="640" width="896" ></a>
