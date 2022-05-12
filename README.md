@@ -88,214 +88,64 @@ The free public version of Tableau could not be linked to SQl, so I exported the
 4) From All these pivot tables separate table is prepared for monthly analysis of average ride length, Ride count and preferred ride type.
 5)
 
-            Jan :
-            Ride Count: Member: Friday
-                        Casual: Saturday
-
-            Avg. Ride Length: Member: Tuesday
-                              Casual: Monday   
-
-            Ride Type: Member: classic & electric friday,
-                       Casual:  Classic,electric & docked Saturday,                      
-
-
-
-
-            Feb :
-            Ride Count: Member: Wednesday
-                        Casual: Saturday
-
-            Avg. Ride Length: Member: Sunday
-                              Casual: Saturday   
-
-            Ride Type: Member: Classic Wed, Electric Fri
-                       Casual: Classic,electric & docked Saturday     
-
-
-
-
-             Mar :
-            Ride Count: Member: Tuesday
-                        Casual: Saturday
-
-            Avg. Ride Length: Member: Sunday
-                              Casual: sunday   
-
-            Ride Type: Member: Classic,electric sat
-                       Casual: Classic,electric & docked Saturday       
-     less diiference of Ride count between casual and memeber on sat and sunday        
-
-
-             Apr :
-            Ride Count: Member: Friday
-                        Casual: Saturday
-
-            Avg. Ride Length: Member: Sunday
-                              Casual: Sunday   
-
-            Ride Type: Member: Classic,electric friday
-                       Casual:  Classic,docked sat,electric fri   
-casual ride count exceeded on sat & sun
-
-             May:
-            Ride Count: Member: Saturday
-                        Casual: Saturday
-
-            Avg. Ride Length: Member:Sunday
-                              Casual: Sunday    
-
-            Ride Type: Member: Classic,electric sat
-                       Casual: Classic,electric sat, docked sunday                                               
-casual ride count exceeded on sat & sun
-
-
-
-            Jun :
-            Ride Count: Member: Wednesday
-                        Casual: Saturday
-
-            Avg. Ride Length: Member: sunday
-                              Casual: sunday   
-
-            Ride Type: Member: Classic,electric wed
-                       Casual: Classic,electric & docked Saturday                       
-
-casual ride count exceeded on fri, sat & sun
-
-
-
-
-             Jul :
-            Ride Count: Member: Thursday
-                        Casual: saturday
-
-            Avg. Ride Length: Member: Sunday
-                              Casual: Sunday   
-
-            Ride Type: Member: classic thurs, electric fri
-                       Casual: Classic,electric & docked Saturday                 
-
-casual ride count exceeded on fri, sat & sun,mon
-
-
-
-             Aug :
-            Ride Count: Member: Tuesday
-                        Casual: Sunday
-
-            Avg. Ride Length: Member: Sunday
-                              Casual: Sunday   
-
-            Ride Type: Member: Classic,electric tuesday
-                       Casual: Classic sat,electric & docked sunday    
-casual ride count exceeded on fri, sat & sun
-
-
-
-             Sep :
-            Ride Count: Member: Thursday
-                        Casual: saturday
-
-            Avg. Ride Length: Member: Sunday
-                              Casual: Sunday   
-
-            Ride Type: Member: Classic,electric thursday
-                       Casual: Classic,electric & docked Saturday       
-casual ride count exceeded on sat & sun
-           
-           
-           
-             Oct:
-            Ride Count: Member: Saturday
-                        Casual: Saturday
-
-            Avg. Ride Length: Member:sunday
-                              Casual: sunday    
-
-            Ride Type: Member: classic saturday,electric friday,
-                       Casual: Classic,electric & docked Saturday                                        
-casual ride count exceeded on sat & sun
-
-
-             Nov :
-            Ride Count: Member: Tuesday
-                        Casual: Saturday
-
-            Avg. Ride Length: Member: Sunday
-                              Casual:  Sunday  
-
-            Ride Type: Member: Classic,electric tuesday
-                       Casual: Classic,electric & docked Saturday       
-
-
-
-             Dec :
-            Ride Count: Member: Thrusday
-                        Casual: Friday
-
-            Avg. Ride Length: Member: Sunday
-                              Casual: Sunday   
-
-            Ride Type: Member: Classic,electric thursday
-                       Casual: classic,electric friday and docked saturday
-
-
-April - Oct Ride count exceeded june-aug on fridays,sat and sunday &  sat , sunday in apr, may ,sep ,oct
-march-dec Avg ride length max on sundays
- Ride Preferred   
- (oct-dec) electric max preferred, exceeded claasic by casual & (nov-dec) by member , exceeded casual
- Jan difference between electric and classic during weekdays is almost negligible
- usage of docked bike is  very less in casual and no usage in members
- Claasic bike is more prefeered (feb-sep) by casual in 
-
-
-jun-sep warm season -> tourism max
-oct-cool, nov-cold,dec-feb very cold,mar-cold,apr-cool
-rain: feb-may increasing, may-aug max 
-sep-jan - decreasing rain 
-
 ## Insights & Visulizations
-1) Average Ride length for casual riders is always greater than member riders.
-2) Average Ride length for casual members is almost similar from February to May and then decreases from month June to January.
-3) Ride Count for Casual Riders Start increasing from March till July and then Starts decreasing from September to February.
-4) Casual Riders has excceded Member Rider Counts from June-August in which tourism is also maximum.
-5) Overall classical bike is more preferred over electric bike.
-6) Electric bike is more preffered than classic bike from October to December by Casual riders and in November & December by Member riders.
-7) In January both Electric and Classical bike is Equally Prefeered in weekdays by Casual Riders.
-8) Docked bikes are very less preferred by Casual Riders & No usage of docked bikes by members.
+
 
 ### Ride Count
 <a href="url"><img src="https://github.com/sumit-1494/Cyclistic-Bike-Share-Case-Study-/blob/main/Graphs/Total%20Ride%20Count.png" align="center" height="480" width="480" ></a>
 
-Ride Count for the year 2021 is 5.59M out of which 2.52M hiring of bikes is by casual riders and 3.06M member riders. This indicates 45% hiring is by casual riders and 55% by member riders which shows number of casual riders are abundant and supports business strategy of converting casual riders into member riders instead of adding new membership riders. 
+Ride Count for the year 2021 is 5.59M out of which 2.52M hiring of bikes is by casual riders and 3.06M by member riders. This indicates 45% hiring is by casual riders and 55% by member riders which shows number of casual riders are abundant and supports business strategy of converting casual riders into member riders instead of adding new membership riders. 
 
 <a href="url"><img src="https://github.com/sumit-1494/Cyclistic-Bike-Share-Case-Study-/blob/main/Graphs/Ride%20Count.png" align="center" height="640" width="896" ></a>
 
-1) Number of bikes hired by casual riders Start increasing from March till July and then Starts decreasing from August to February. July is the peak point of hiring bikes by casual riders and lowest is in the month of February which has a coldest weather. Number of bikes leased by casual riders has excceded member rider count from June-August in which tourism is also maximum.
-2) For member riders bike leasing starts increasing from March till October and then starts decrasing  
-3) Overall on weekends of each month bike hiring by casual riders is more than member riders.
+1) Number of bikes hired by casual riders Start increasing from March till July and then starts decreasing from August to February. July is the peak point of hiring bikes by casual riders and lowest is in the month of February which has a freezing weather conditions. Number of bikes leased by casual riders has excceded member rider count from June-August which is probably due to peak period of tourism in Chicago.
+2) For member riders bike leasing starts increasing from March till september and then starts decrasing from October till February. Maximum hiring is in the months of August/september which is peak period for tourism and lowest hiring is in the month of February which I suspect to be freezing weather conditions of that month. 
+3) After carefully observing monthly data, Overall on weekends of each month bike hiring by casual riders is more than member riders and on weekdays maximum hiring is by member riders. I reckon that maximum member riders are hiring bikes for commute purposes which can be school/college/working places on weekdays.
 
 ### Ride Length
 
 <a href="url"><img src="https://github.com/sumit-1494/Cyclistic-Bike-Share-Case-Study-/blob/main/Graphs/Total%20Ride%20Length.png" align="center" height="480" width="480" ></a>
 
-Casual Riders are hiring bikes for the longer time than the membership Riders
+On an average casual riders are spending twice as much time in riding than member riders, even though bike hiring by casual riders is 10% less than member riders. 
 
 <a href="url"><img src="https://github.com/sumit-1494/Cyclistic-Bike-Share-Case-Study-/blob/main/Graphs/Avg.%20Ride%20Length.png" align="center" height="640" width="896" ></a>
  
- Average Ride length for casual members is almost similar from February to May and then decreases from month June to January.
+ Average Ride length for casual members is almost similar from February to May and then decreases further until January. Average Ride length for member members is almost similar from April to August and then decreases further until January. Throughout the year casual riders have higher ride length than member riders. 
+In each month ride time is higher on sunday for casual/member riders.
 
 
 ### Ride Preference
 <a href="url"><img src="https://github.com/sumit-1494/Cyclistic-Bike-Share-Case-Study-/blob/main/Graphs/Overall%20Ride%20Preference.png" align="center" height="640" width="896" ></a>
 
-<a href="url"><img src="https://github.com/sumit-1494/Cyclistic-Bike-Share-Case-Study-/blob/main/Graphs/Bike%20Preference.png" align="center" height="640" width="896" ></a>
+Overall Classic bike is more preferred over electric and docked bike. Usage of classic bike is more in member riders and for electric bikes usage is comparable.
+Docked bikes are very less preferred by casual riders and not preferred by member riders.
 
 <a href="url"><img src="https://github.com/sumit-1494/Cyclistic-Bike-Share-Case-Study-/blob/main/Graphs/Casual%20Bike%20Preference.png" align="center" height="640" width="896" ></a>
 
+ Usage of Classical bike for casual riders start increasing from February till july and starts decreasing onwards. Electric bike is more preferred  over classic bike by casual riders for the period October - December, I suspect the reason to be start of winter season. Usage of Electric bike starts increasing from march and remains almost similar from June till October and then start decreasing onwards.
+ 
+Maximum usage of all bike types is in the month of july. Lowest Usage is in the months of January & February for all bike types, the reason I suspect is freezing weather condition. In January Electric bike and Classic bike almost equal usage. Largest rise in the usage of classical bike is in between May and June. Largest drop for classical bike is between September and October. For Electric and Docked bike largest rise in usage is in between April and May & Largest drop is in between October and November.
+
 <a href="url"><img src="https://github.com/sumit-1494/Cyclistic-Bike-Share-Case-Study-/blob/main/Graphs/Member%20Bike%20Preference.png" align="center" height="640" width="896" ></a>
 
-1) Overall classical bike is more preferred over electric bike.
-2) Electric bike is more preffered than classic bike from October to December by Casual riders and in November & December by Member riders.
-3) In January both Electric and Classical bike is Equally Prefeered in weekdays by Casual Riders.
-4) Docked bikes are very less preferred by Casual Riders & No usage of docked bikes by members.
+Usage of Classic bike for member riders start increasing from March till August and decreases onwards till February. Maximum usage for classic bike is in the month of August. Lowest usage is in the month of february. Highest rise in the usage of claasic bike is between February and March & Highest drop in the usage is in between October and November. Classic Bike Hiring by member riders is almost comparable in months July - September. 
+
+For Electric Bike usage increases from March till October and then decreases onwards. Maximum usage is in the month of October and lowest use is in the month of February. Largest rise in the usage is in between september and october & largest drop is in between November and December. Electric bike hiring by members is similar in period from June - Sepetember.
+
+For members, electric bike usage exceeds classical bike usage in the months November and December which is probably due to start of winter season. Docked Bikes never used by member riders.
+
+<a href="url"><img src="https://github.com/sumit-1494/Cyclistic-Bike-Share-Case-Study-/blob/main/Graphs/Bike%20Preference.png" align="center" height="640" width="896" ></a>
+
+From graph we Can see Classic bike hiring of member rider is always excceding classic bike hiring of casual riders. Docked Bikes are used only by casual members but have least preference. No usage of docked bikes by member riders. Electric bike hiring for Casual riders exceeds electric bike usage of member riders after may till September. 
+
+Usage of classic bike and electric bike is evenly ditributed from Tuesday to Saturday for member riders and lowest use is on Monday and Sunday. For Casual riders maximum use of all bike types is on Saturday. Among three types classical is more preferred over electric and docked, which are almost equally preferred on saturday. 
+
+
+## Recommendations
+1) Slash membership rates from may to September.
+2) Design Half-Yearly and Quarter-Yearly membership plans.
+3) Design flash sales of membership plans on top 20 busiest stations on weekends during peak hours.
+4) 
+
+
+
