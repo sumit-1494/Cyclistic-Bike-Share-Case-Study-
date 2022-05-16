@@ -142,13 +142,15 @@ Usage of classic bike and electric bike is evenly ditributed from Tuesday to Sat
 
 ## Peak Hour 
 <a href="url"><img src="https://github.com/sumit-1494/Cyclistic-Bike-Share-Case-Study-/blob/main/Graphs/Weekday%20Peak%20Hours_%20Member%20Riders%20.png" align="center" height="500" width="1000" ></a>
-
+<a href="url"><img src="https://github.com/sumit-1494/Cyclistic-Bike-Share-Case-Study-/blob/main/Graphs/Weekdays%20Peak%20Hours_%20Casual%20Riders.png" align="center" height="500" width="1000" ></a>
+<a href="url"><img src="https://github.com/sumit-1494/Cyclistic-Bike-Share-Case-Study-/blob/main/Graphs/Weekend%20Peak%20Hours%20_%20Casual%20Riders.png" align="center" height="500" width="1000" ></a>
+<a href="url"><img src="https://github.com/sumit-1494/Cyclistic-Bike-Share-Case-Study-/blob/main/Graphs/Weekend%20Peak%20Hours%20_%20Member%20Riders%20.png" align="center" height="500" width="1000" ></a>
 
 ## Recommendations
 1) Slash membership rates from may to September.
 2) Design Half-Yearly and Quarter-Yearly membership plans.
 3) Design flash sales of membership plans on top 20 busiest stations on weekends during peak hours.
-4) 
+
 
 
 
