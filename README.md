@@ -141,7 +141,8 @@ From graph we Can see Classic bike hiring of member rider is always excceding cl
 Usage of classic bike and electric bike is evenly ditributed from Tuesday to Saturday for member riders and lowest use is on Monday and Sunday. For Casual riders maximum use of all bike types is on Saturday. Among three types classical is more preferred over electric and docked, which are almost equally preferred on saturday. 
 
 ## Top 20 Busy Stations
-<a href="url"><img src="https://github.com/sumitkokane/Cyclistic-Bike-Share-Case-Study-/blob/main/Graphs/Top%2020%20Busy%20Stations%20(2).png" align="center" height="540" width="1040" ></a>
+<a href="url"><img src="https://github.com/sumitkokane/Cyclistic-Bike-Share-Case-Study-/blob/main/Graphs/Top%2020%20Busy%20Stations%20(2).png" align="center" height="520" width="1000" ></a>
+Above map shows locations of top 20 busy stations for both riders.
 
 ## Peak Hour 
 <a href="url"><img src="https://github.com/sumit-1494/Cyclistic-Bike-Share-Case-Study-/blob/main/Graphs/Weekday%20Peak%20Hours_%20Member%20Riders%20.png" align="center" height="500" width="1000" ></a>
