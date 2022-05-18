@@ -146,9 +146,14 @@ Usage of classic bike and electric bike is evenly ditributed from Tuesday to Sat
 ## Peak Hour 
 <a href="url"><img src="https://github.com/sumit-1494/Cyclistic-Bike-Share-Case-Study-/blob/main/Graphs/Weekday%20Peak%20Hours_%20Member%20Riders%20.png" align="center" height="500" width="1000" ></a>
 
+As seen From the Graph On Weekdays bike hiring by member riders is maximum in morning between 7.00 AM - 8.00 AM & in evening from 4.00 PM to 6.00 PM. I suspect most of the member riders are using bikes for commute. 
+
 <a href="url"><img src="https://github.com/sumit-1494/Cyclistic-Bike-Share-Case-Study-/blob/main/Graphs/Weekdays%20Peak%20Hours_%20Casual%20Riders.png" align="center" height="500" width="1000" ></a>
 
+Bike Hiring by Casuals on weekdays is maximum in evening from 4.00 PM to 6.00 PM. I suspect that Casual riders are using bikes for commute & leisure activities. May be Casual riders are using bikes more for leisure activities because in morning time member riders are hiring more bikes than Casual riders and above mentioned morning time is commute time.  
+
 <a href="url"><img src="https://github.com/sumit-1494/Cyclistic-Bike-Share-Case-Study-/blob/main/Graphs/Weekend%20Peak%20Hours%20_%20Member%20Riders%20.png" align="center" height="500" width="1000" ></a>
+
 
 <a href="url"><img src="https://github.com/sumit-1494/Cyclistic-Bike-Share-Case-Study-/blob/main/Graphs/Weekend%20Peak%20Hours%20_%20Casual%20Riders.png" align="center" height="500" width="1000" ></a>
 ## Recommendations
