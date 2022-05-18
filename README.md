@@ -154,8 +154,12 @@ Bike Hiring by Casuals on weekdays is maximum in evening from 4.00 PM to 6.00 PM
 
 <a href="url"><img src="https://github.com/sumit-1494/Cyclistic-Bike-Share-Case-Study-/blob/main/Graphs/Weekend%20Peak%20Hours%20_%20Member%20Riders%20.png" align="center" height="500" width="1000" ></a>
 
+On Weekend bike hiring by member riders starts increasing from 9.00 AM till 5.00 PM. Maximum Hiring is between 12.00 PM to 4.00 PM. Bike Hiring is also increased at night between 11.00 PM - 12.00 AM. Maximum rise in hiring is from 8.00 AM to 10.00 AM.
 
 <a href="url"><img src="https://github.com/sumit-1494/Cyclistic-Bike-Share-Case-Study-/blob/main/Graphs/Weekend%20Peak%20Hours%20_%20Casual%20Riders.png" align="center" height="500" width="1000" ></a>
+ 
+ On Weekend bike hiring by Casual riders starts increasing from 9.00 AM till 5.00 PM. Maximum Hiring is between 12.00 PM to 4.00 PM. Bike Hiring is also increased at night between 11.00 PM - 12.00 AM. Maximum rise in hiring is from 8.00 AM to 11.00 AM.
+
 ## Recommendations
 1) Slash membership rates from may to September.
 2) Design Half-Yearly and Quarter-Yearly membership plans.
