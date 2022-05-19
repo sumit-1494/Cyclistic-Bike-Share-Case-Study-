@@ -141,13 +141,13 @@ From graph we Can see Classic bike hiring of member rider is always excceding cl
 Usage of classic bike and electric bike is evenly ditributed from Tuesday to Saturday for member riders and lowest use is on Monday and Sunday. For Casual riders maximum use of all bike types is on Saturday. Among three types classical is more preferred over electric and docked, which are almost equally preferred on saturday. 
 
 ## Top 20 Busy Stations
-<a href="url"><img src="https://github.com/sumitkokane/Cyclistic-Bike-Share-Case-Study-/blob/main/Graphs/Top%2020%20Busy%20Stations%20(2).png" align="center" height="520" width="1000" ></a>
-Above map shows locations of top 20 busy stations for both riders.
+<a href="url"><img src="https://github.com/sumitkokane/Cyclistic-Bike-Share-Case-Study-/blob/main/Graphs/Top%2020%20Busy%20Stations%20(2).png" align="center" height="600" width="750" ></a>
+Majority of docking stations are near the coastal area. Streeter Dr and Grand Ave' is the most famous docking station with highest number of riders due to excursion places in its vicinity. Difference between number of rides at the top 1st (Streeter Dr & Grand Ave) and top 2nd (Michigan Ave & Oak St) docking stations is significantly large.
 
 ## Peak Hour 
 <a href="url"><img src="https://github.com/sumit-1494/Cyclistic-Bike-Share-Case-Study-/blob/main/Graphs/Weekday%20Peak%20Hours_%20Member%20Riders%20.png" align="center" height="500" width="1000" ></a>
 
-As seen From the Graph On Weekdays bike hiring by member riders is maximum in morning between 7.00 AM - 8.00 AM & in evening from 4.00 PM to 6.00 PM. I suspect most of the member riders are using bikes for commute. 
+As seen From the Graph On Weekdays bike hiring by member riders is maximum in morning between 7.00 AM - 8.00 AM & in evening from 4.00 PM to 6.00 PM. I suspect most of the member riders are using bikes for commute. Also, member riders seem to be using the bikes to travel towards train station since most of the peak cyclistic docking stations are near train stations. 
 
 <a href="url"><img src="https://github.com/sumit-1494/Cyclistic-Bike-Share-Case-Study-/blob/main/Graphs/Weekdays%20Peak%20Hours_%20Casual%20Riders.png" align="center" height="500" width="1000" ></a>
 
@@ -159,7 +159,8 @@ On Weekend bike hiring by member riders starts increasing from 9.00 AM till 5.00
 
 <a href="url"><img src="https://github.com/sumit-1494/Cyclistic-Bike-Share-Case-Study-/blob/main/Graphs/Weekend%20Peak%20Hours%20_%20Casual%20Riders.png" align="center" height="500" width="1000" ></a>
  
- On Weekend bike hiring by Casual riders starts increasing from 9.00 AM till 5.00 PM. Maximum Hiring is between 12.00 PM to 4.00 PM. Bike Hiring is also increased at night between 11.00 PM - 12.00 AM. Maximum rise in hiring is from 8.00 AM to 11.00 AM.
+ On Weekend bike hiring by Casual riders starts increasing from 9.00 AM till 5.00 PM. Maximum Hiring is between 12.00 PM to 4.00 PM. Bike Hiring is also increased at night between 11.00 PM - 12.00 AM. Maximum rise in hiring is from 8.00 AM to 11.00 AM.  
+ The Trend on weekends is normal distribution curve for both types of riders where as trend on weekdays is a spike during commute hours.
 
 ## Recommendations
 1) Slash membership rates from may to September.
