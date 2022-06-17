@@ -86,9 +86,9 @@ The free public version of Tableau could not be linked to SQl, so I exported the
 2) Another Pivot table is generated for ride counts of each rider type on weekly basis. The goal at this point was to find out whether casual riders had a preference for certain days or months compared with member riders.
 3) Third pivot table is generated for analyzing which bike type was used more frequently by rider type.
 4) From All these pivot tables separate table is prepared for monthly analysis of average ride length, Ride count and preferred ride type.
-5)
 
-## Insights & Visulizations
+
+## Insights & Visualizations
 
 
 ### Ride Count
